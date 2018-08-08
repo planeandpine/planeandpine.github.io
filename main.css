@@ -21,3 +21,11 @@ a {
 #breakdown img {
 	width: 85%;
 }
+
+#diffusers .col-md-3 {
+	text-align: center;
+}
+
+#diffusers .col-md-3 img{
+	height: 150px;
+}
