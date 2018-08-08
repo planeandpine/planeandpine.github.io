@@ -1,15 +1,19 @@
-#nav {
+.nav {
     background-color: #9aab98 !important;
 }
 
-#nav li a {
+.nav li a {
 	color: #f6f5f4;
 	text-decoration: none;
 	display: block;
 }
 
-#nav li a:hover {
+.nav li a:hover {
 	color: #333;
 	background-image: url(images/nav_on.png);
 	background-repeat: repeat-x;
+}
+
+a {
+	color: #9aab98;
 }
