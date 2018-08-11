@@ -1,5 +1,9 @@
 .nav {
-    background-color: #9aab98 !important;
+	background-color: #9aab98 !important;
+}
+
+.w3-bar {
+	width: fit-content !important;
 }
 
 .nav li a {
@@ -32,4 +36,14 @@ a {
 
 .bolded li {
 	font-weight: bold;
+}
+
+.watercolor-bottles {
+	min-height: 100px;
+	text-align: center;
+
+}
+
+.watercolor-bottles img {
+	height: 100px;
 }
