@@ -26,6 +26,16 @@ a {
 	/* width: 85%; */
 }
 
+.selected {
+	background-color: #65816a;
+}
+
+@media screen and (max-width: 479px) {
+	#alphabar {
+		display: none;
+	}
+}
+
 #diffusers .col-md-3 {
 	text-align: center;
 }
