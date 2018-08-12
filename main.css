@@ -22,6 +22,10 @@ a {
 	color: #9aab98;
 }
 
+.nav a {
+	color: black;
+}
+
 #breakdown img {
 	/* width: 85%; */
 }
@@ -33,6 +37,19 @@ a {
 @media screen and (max-width: 479px) {
 	#alphabar {
 		display: none;
+	}
+	.w3-bar-item {
+		float: none !important;
+	}
+	.w3-bar {
+		width: 100%!important;
+	}
+
+	.w3-bar a {
+		border-bottom: 0.5px solid gray !important;
+	}
+	.w3-bar a:first-child {
+		border-top: 0.5px solid gray !important;
 	}
 }
 
