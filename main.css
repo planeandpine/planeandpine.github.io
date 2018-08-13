@@ -51,6 +51,9 @@ a {
 	.w3-bar a:first-child {
 		border-top: 0.5px solid gray !important;
 	}
+	.watercolor-bottles div {
+		padding: 0;
+	}
 }
 
 #diffusers .col-md-3 {
@@ -66,9 +69,7 @@ a {
 }
 
 .watercolor-bottles {
-	min-height: 100px;
 	text-align: center;
-
 }
 
 .watercolor-bottles img {
