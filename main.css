@@ -27,7 +27,8 @@ a {
 }
 
 #breakdown img {
-	/* width: 85%; */
+	width: auto;
+	max-width: 175px;
 }
 
 .selected {
@@ -74,4 +75,8 @@ a {
 
 .watercolor-bottles img {
 	height: 100px;
+}
+
+body {
+	font-size: 13px;
 }
