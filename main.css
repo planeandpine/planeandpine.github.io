@@ -80,3 +80,7 @@ a {
 body {
 	font-size: 13px;
 }
+
+header img {
+	width: 80%;
+}
